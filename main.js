@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         FuckUlearning
 // @description  优学院视频刷课脚本
-// @version      1.0.1
-// @author       Nanashi
+// @version      1.0.2
+// @author       Sh1roko233
 // @match        *://ua.ulearning.cn/*
-// @icon         https://raw.githubusercontent.com/Nanashi-Development/FuckULearning/main/logo.jpg
+// @icon         https://raw.githubusercontent.com/Sh1rokoDev/FuckULearning/main/logo.jpg
 // @updateURL    https://update.greasyfork.org/scripts/550418/FuckUlearning.user.js
 // @downloadURL  https://update.greasyfork.org/scripts/550418/FuckUlearning.user.js
-// @supportURL   https://github.com/Nanashi-Development/FuckULearning/issues
-// @homepageURL  https://github.com/Nanashi-Development/FuckULearning
+// @supportURL   https://github.com/Sh1rokoDev/FuckULearning/issues
+// @homepageURL  https://github.com/Sh1rokoDev/FuckULearning
 // @grant        none
 // ==/UserScript==
 

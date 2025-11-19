@@ -27,7 +27,7 @@
 
 ### 2. 安装脚本
 点击上方的 **Install UserScript** 按钮，或者：
-1. 点击 [这里](https://github.com/Nanashi-Development/FuckULearning/blob/main/main.js) 访问脚本源码
+1. 点击 [这里](https://github.com/Sh1rokoDev/FuckULearning/blob/main/main.js) 访问脚本源码
 2. 复制所有代码
 3. 打开 Tampermonkey 管理面板
 4. 点击 "创建新脚本"
@@ -58,5 +58,5 @@
 
 如果遇到问题，请：
 1. 查看控制面板中的日志信息
-2. 在 [Issues](https://github.com/Nanashi-Development/FuckULearning/issues) 页面提交问题
+2. 在 [Issues](https://github.com/Sh1rokoDev/FuckULearning/issues) 页面提交问题
 3. 详细描述问题现象和复现步骤
